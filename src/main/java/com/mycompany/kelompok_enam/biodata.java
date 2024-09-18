@@ -51,7 +51,7 @@ public class biodata extends javax.swing.JFrame {
 
         jLabel5.setText("Link GIT    :");
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompok_enam/COGAN 2].jpg"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompok_enam/FOTO/COGAN 2].jpg"))); // NOI18N
 
         jTextField1.setText("KEC. REJOSO KAB. NGANJUK");
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
