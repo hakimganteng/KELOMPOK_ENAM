@@ -69,6 +69,7 @@ public class biodata extends javax.swing.JFrame {
 
         jTextField3.setText("202357201008");
 
+        jTextField4.setText("https://github.com/bakolsound");
         jTextField4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField4ActionPerformed(evt);
